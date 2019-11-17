@@ -1,0 +1,11 @@
+d:\documents\visual studio 2015\Projects\Equ\Equ\bin\Debug\Equ.exe.config
+d:\documents\visual studio 2015\Projects\Equ\Equ\bin\Debug\Equ.exe
+d:\documents\visual studio 2015\Projects\Equ\Equ\bin\Debug\Equ.pdb
+d:\documents\visual studio 2015\Projects\Equ\Equ\obj\Debug\Equ.exe
+d:\documents\visual studio 2015\Projects\Equ\Equ\obj\Debug\Equ.pdb
+F:\UTS\Master of IT\Simester 4\.Net development\Final Assignment 1\assignment\Equ\Equ\bin\Debug\Equ.exe.config
+F:\UTS\Master of IT\Simester 4\.Net development\Final Assignment 1\assignment\Equ\Equ\obj\Debug\Equ.exe
+F:\UTS\Master of IT\Simester 4\.Net development\Final Assignment 1\assignment\Equ\Equ\obj\Debug\Equ.pdb
+F:\UTS\Master of IT\Simester 4\.Net development\Final Assignment 1\assignment\Equ\Equ\bin\Debug\Equ.exe
+F:\UTS\Master of IT\Simester 4\.Net development\Final Assignment 1\assignment\Equ\Equ\bin\Debug\Equ.pdb
+F:\UTS\Master of IT\Simester 4\.Net development\Final Assignment 1\assignment\Equ\Equ\obj\Debug\Equ.csprojResolveAssemblyReference.cache
